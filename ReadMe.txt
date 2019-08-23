@@ -56,5 +56,5 @@ Tip : To zoom in/out on plots in early versions of
 Have fun !!!!!
 
 ---------------------------------------------------------
-Update by Tao Yun
+Update by tyenergy
 I am very interested in the antenna array now. I searched around the internet, and found this fantastic package online. It works well in Matlab. I plan to do some array optimization, but I don't have the optimization toolbox license now, so I decide to write my own codes in Python. But this code by  Neill Tucker is my starting point.
